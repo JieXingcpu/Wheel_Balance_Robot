@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "gpio.h": "c",
+        "can.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "stm32f4xx_hal_conf.h": "c",
+        "stm32f4xx_hal_can.h": "c",
+        "cmath": "c",
+        "bsp_can.h": "c",
+        "gm6020.h": "c",
+        "freertos.h": "c",
+        "key.h": "c",
+        "pid.h": "c",
+        "config.h": "c",
+        "robottask.h": "c",
+        "cstdio": "c",
+        "__verbose_abort": "c",
+        "usart.h": "c",
+        "stm32f4xx_hal_rcc.h": "c",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "C_Cpp.autocomplete": "disabled",
+    "clangd.arguments": ["--header-insertion=never"]
+    
+}
